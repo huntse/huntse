@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean Hunter @huntse
+- 👋 Hi, I’m Sean Hunter (@huntse on github)
 - 📫 You can email me on sean at uncarved.com
 
 <!---
