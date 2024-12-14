@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sean Hunter (@huntse on github)
-- 📫 You can email me on sean at uncarved.com
 
 <!---
 huntse/huntse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
